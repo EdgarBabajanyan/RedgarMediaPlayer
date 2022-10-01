@@ -1,5 +1,5 @@
 # RedgarMediaPlayer
-An advanced and easy to use Java based media player. 
+An advanced and easy to use Java based media player. This was built using JavaFx (You're seeing me present project EITS!)
 
 
 
